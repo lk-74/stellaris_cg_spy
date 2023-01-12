@@ -2,14 +2,15 @@
 is_anime_species = {
 	species = {
 		OR = {
-			is_archetype =  Magical_Bitch 
-			is_archetype =  Magical_Girl 
+			is_archetype = Magical_Bitch 
+			is_archetype = Magical_Girl 
 			is_archetype = WHORE 
 			is_archetype = LOVEMACHINE
 			is_archetype = YGWAWA
+			is_archetype = LBM
 			is_archetype = Lust_Girl
 			is_archetype = MONSTER
-			is_archetype =  WARSHIPGIRL 
+			is_archetype = WARSHIPGIRL 
 			is_archetype = KANSEN 
 			is_archetype = android 
 			is_archetype = NYTO
@@ -20,9 +21,9 @@ is_anime_species = {
 			is_archetype = HKR 
 			is_archetype = JourneyofElaina 
 			is_archetype = Houkai3rd
-			is_archetype =DATEALIVE
-			is_archetype =LILY
-			is_archetype =KZ_VOY_TERRANOID
+			is_archetype = DATEALIVE
+			is_archetype = LILY
+			is_archetype = KZ_VOY_TERRANOID
 		}
 	}
 }

@@ -40,7 +40,7 @@ cg_plus_thief_tradition_finish = {
 				days = 10 
 			}
 
-# alllow auctions
+# allow auctions
 		}
 }
 

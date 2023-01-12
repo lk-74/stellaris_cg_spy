@@ -2,10 +2,10 @@
  tradition_sucthief:0 "紳士大盜"
  tradition_sucthief_desc:0 "星海中流傳著有关神秘的紳士大盜的传闻。"
  cg_plus_thief_tradition_adopt:0 "采用紳士大盜"
- cg_plus_thief_tradition_adopt_effect:0 "采用紳士大盜传统后会获得一个特殊通信"
- cg_plus_thief_tradition_adopt_desc:0 "采用紳士大盜传统后会获得一个特殊通信"
+ cg_plus_thief_tradition_adopt_effect:0 "采用紳士大盜传统后会获得一个特殊通信。【外交官+1】"
+ cg_plus_thief_tradition_adopt_desc:0 "采用紳士大盜传统后会获得一个特殊通信。"
  cg_plus_thief_tradition_finish:0 "完成采用紳士大盜传统会升级隐居子的展览馆，并拓展其功能。"
- cg_plus_thief_tradition_finish_effect:0 "完成采用紳士大盜传统会升级隐居子的展览馆，并拓展其功能。"
+ cg_plus_thief_tradition_finish_effect:0 "完成采用紳士大盜传统会升级隐居子的展览馆，并拓展其功能。【ascension slot +1】"
  cg_plus_thief_tradition_11:0 "伪装潜入"
  cg_plus_thief_tradition_11_desc:0 "潜入速度+50%"
  cg_plus_thief_tradition_11_delayed:0 "要无声无色地靠近名媛身边当然需要隐居子的伪装技术"
@@ -17,10 +17,10 @@
  cg_plus_thief_tradition_21_delayed:0 "星海这么大，不能全都靠隐居子一个人吧。【外交官+3】"
  cg_plus_thief_tradition_22:0 "破门而入"
  cg_plus_thief_tradition_22_desc:0 "破译+2"
- cg_plus_thief_tradition_22_delayed:0 "小姐姐们是躲不掉的！"
+ cg_plus_thief_tradition_22_delayed:0 "小姐姐们是躲不掉的！【破译+2】【spy skill +2】"
  cg_plus_thief_tradition_23:0 "油滑主义"
  cg_plus_thief_tradition_23_desc:0 "外交接受度+20"
- cg_plus_thief_tradition_23_delayed:0 "一天到晚和圣女打来打去那我怎么参加她们的宴会呢？ 当你变得更油滑，就能更容易轻易接近少女们。"
+ cg_plus_thief_tradition_23_delayed:0 "一天到晚和圣女打来打去那我怎么参加她们的宴会呢？ 当你变得更油滑，就能更容易轻易接近少女们。【臣服接受度+20】"
 
 
 
